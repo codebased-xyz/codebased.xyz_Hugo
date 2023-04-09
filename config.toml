@@ -1,0 +1,6 @@
+baseURL = 'https://codebased.xyz/'
+languageCode = 'en-uk'
+title = 'Codebased'
+author = 'W.I.P.'
+copyright = 'Copyright. No one! (GNU AGPL)'
+theme = "bear"
