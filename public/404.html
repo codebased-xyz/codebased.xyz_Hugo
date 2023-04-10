@@ -33,13 +33,13 @@
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
-    max-width: 720px;
+    max-width: 920px;
     text-align: left;
     background-color: #fff;
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
-    color: #444;
+    color: #444444;
   }
 
   h1,
@@ -158,8 +158,8 @@
 
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #333;
-      color: #ddd;
+      background-color: #282a36;
+      color: #f8f8f2;
     }
 
     h1,
@@ -170,11 +170,21 @@
     h6,
     strong,
     b {
-      color: #eee;
+      color: #f8f8f2;
+      margin-top: 5px;
+      margin-bottom: 2px;
+      padding-bottom: 0px;
+      height: 31px;
     }
-
+    p {
+      line-height: 20px;
+      margin-bottom: 0px;
+    }
     a {
-      color: #8cc2dd;
+      color: #50fa7b;
+    }
+    ul {
+      margin: 0px;
     }
 
     code {
@@ -206,22 +216,21 @@
 
 <body>
   <header><a href="/" class="title">
-  <h2>Codebased</h2>
+  <h2 style="height: 11px;">Codebased.xyz</h2>
+  <h3 style="color: #65656b;font-size: medium;height: 15px;margin-top: 15px;">A random computer nerds's den</h3>
 </a>
 <nav><a href="/">Home</a>
 
 
-<a href="/blog">Blog</a>
-
 </nav>
+<hr>
 </header>
   <main>
 <h1>404</h1>
 <h2>The page you requested could not be found</h2>
 
   </main>
-  <footer>Made  possible by <a href="https://github.com/janraasch/hugo-bearblog/">Hugo Bear</a> and <a href="https://gohugo.io/">Hugo</a><br>Get the source code <a href="https://github.com/codebased-xyz/codebased.xyz_Hugo">Here</a>
-</footer>
+  <footer><hr>Made  possible by <a href="https://github.com/janraasch/hugo-bearblog/">Hugo Bear</a> and <a href="https://gohugo.io/">Hugo</a><br>Get the source code <a href="https://github.com/codebased-xyz/codebased.xyz_Hugo">Here</a> (AGPL3)</footer>
 
     
 </body>
