@@ -14,8 +14,13 @@
 #    You should have received a copy of the GNU Affero General Public License
 #    along with this program. (See ./LICENSE file)  If not, see <https://www.gnu.org/licenses/>.
 
+# Hugo
 baseURL = 'https://codebased.xyz/'
 languageCode = 'en-uk'
 title = 'Codebased.xyz'
-author = 'Codebased'
 theme = "bear"
+
+# Theme specific
+[params]
+sourceLink = 'https://github.com/codebased-xyz/codebased.xyz_Hugo'
+subTitle = "A random computer nerds's den"
