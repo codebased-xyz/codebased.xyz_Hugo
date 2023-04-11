@@ -27,7 +27,7 @@ The services hosted on this machine are:
 - a *minimal* (tech)*["blog"](./blog/)* and website. **This!** : addr: [codebased.xyz](https://codebased.xyz/) | Live
 - a [ntfy](https://ntfy.sh/) server: addr: [ntfy.codebased.xyz](https://codebased.xyz/) | Planned
 - a fileserver ([copyparty](https://github.com/9001/copyparty)): addr: [files.codebased.xyz](https://files.codebased.xyz/) | Live
-- a url shortener. (We shall find out what exactly!): addr: [codebased.xyz/a/](https://codebased.xyz/a/) (**maybe**. a for anchor like in *HTML*) | Planned
+- a url shortener. [Shlink](https://a.codebased.xyz/shlink): addr: [a.codebased.xyz](https://a.codebased.xyz/shlink) (a for anchor like in *HTML*) | Live
 # Now to get a little selfish...
 My name is **Kacper** and I'm a random **teenager** (currently **14**) born(and living(so far)) in **Poland**.  
 I am also a **computer nerd** (yes i compared the **definitions** of *nerd* and *geek*); I can program in **C++** & **Python** (also some Rust) Sometimes i indulge in some **GNU/Linux** *magic*.
